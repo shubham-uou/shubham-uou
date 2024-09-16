@@ -1,4 +1,4 @@
-## Hi there 👋
+## This is a machine learning library developed by Shubham Sawant for CS5350/6350 in University of Utah
 
 <!--
 **shubham-uou/shubham-uou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
